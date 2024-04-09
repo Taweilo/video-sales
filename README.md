@@ -14,9 +14,9 @@ https://www.kaggle.com/datasets/gregorut/videogamesales
 
 ## Story include
 * Overall analysis
-* Playstation analysis
-* Xbox analysis
-* Nintendo analysis
+* Playstation BI analysis
+* Xbox BI analysis
+* Nintendo BI analysis
 
 ## Method
 1. Build all charts at Tableau
@@ -26,7 +26,7 @@ https://www.kaggle.com/datasets/gregorut/videogamesales
 
 ## Deployment
 https://public.tableau.com/app/profile/ta.wei.lo/viz/VideoGameStory_17126366315260/VideoGamingStory
- <img src="https://github.com/Taweilo/video_sales/blob/main/Story%20image.png" width="1100">
+ <img src="https://github.com/Taweilo/video_sales/blob/main/Video%20Game%20Story.png" width="1100">
 
 ## Insights
 1. Overall:
